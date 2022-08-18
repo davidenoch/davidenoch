@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @davidenoch
-- 👀 I’m interested in  
+-   Hi, I’m @davidenoch on github and @potmo on twitter and most other platforms. I am spendng a lot of time, these days
   - Predictive Modeling for profit
-  - data analysis for exploration, expanation and enlightment
+  - data analysis for exploration, explanation and enlightment and all the components (coding in Python, SQL and a little R, data wrangling, data visualization and story-telling, ML, etc.
   - DAOs, DEFI and blockchain tech
-- 🌱 I’m currently learning ...
+  - Quantitative Analysis
+-  I have been producing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  
 
