@@ -1,4 +1,9 @@
--   Hi, I’m @davidenoch on github and @potmo on twitter and most other platforms. I am spendng a lot of time, these days
+  Hi, I’m @davidenoch on github and @potmo on twitter and most other platforms. 
+  Currently, I am producing Data Analytics dashboards and data stories for individuals and in bounties and contests, mostly centered around blockchain transaction data on a variety of L1 and L2 chains in the Web 3 space.
+  
+ 
+  
+  
   - Predictive Modeling for profit
   - data analysis for exploration, explanation and enlightment and all the components (coding in Python, SQL and a little R, data wrangling, data visualization and story-telling, ML, etc.
   - DAOs, DEFI and blockchain tech
